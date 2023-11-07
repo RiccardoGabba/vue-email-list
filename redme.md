@@ -1,12 +1,12 @@
 Descrizione:
 Attraverso l'apposita API di boolean
-
+https://flynn.boolean.careers/exercises/api/random/mail
 genera 10 indirizzi email e stamparli in pagina all'interno di una lista
 
 - inizializzare vue e importare libreria axios
 - nuova variabile array vuota ('emails') in data() per salvare le email
 - nuova funzione 'getEmail()' in methods per generare email
-- consolo. log nella funzione
+- consolo.log nella funzione
 - dentro la funzione di 10 giri che fa chiamata axios a API
 - salvare risultato della chiamata in variabile 'result' o 'res' (importante che è il risultato della chiamata e non la mail)
 - analizzare 'result' per vedere quale proprietà ha la mail come risultato
